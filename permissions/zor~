@@ -1,0 +1,6 @@
+#!/bin/bash
+zor(){
+    local b="$1"
+    echo "$b yqgdwey"
+}
+zor $1
