@@ -1,0 +1,2 @@
+#!/bin/bash
+cat | cut -d "[a-z]" -f 1  
