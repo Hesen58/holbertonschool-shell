@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./* -empty | ls -a | cat
+find ./* -empty -type d -type f | ls -a | cat
